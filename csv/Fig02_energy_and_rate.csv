@@ -1,0 +1,22 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,,,,,
+# Updated,11/2026,,,,,,,,,,,,
+#Name,Fig. 2 of the revised paper: (a) Virgo SCDM K_p and -P_y against a; (b) all-particle K_p/t and halo-particle <K_pv>/t; (c) K_p/<K_pv> against the halo mass fraction,,,,,,,,,,,,
+#Ref. [1] This paper,Z. Xu: Dark matter particle properties from galaxy rotation curves and the theory of energy cascade,,,,,,,,,,,
+#Ref. [2] Virgo,https://doi.org/10.5281/zenodo.6541231,"Virgo consortium SCDM run; halo-based statistics, Z. Xu, Zenodo (2022)",,,,,,,,,,,
+#Ref. [3] Illustris,https://www.illustris-project.org,"Illustris-1-Dark, Nelson et al. 2015, Astron. Comput. 13, 12 (doi:10.1016/j.ascom.2015.09.003)",,,,,,,,,,,
+#Ref. [4] Xu 2026,https://doi.org/10.21203/rs.3.rs-8012958/v3,"Z. Xu, Universal spectrum and scaling laws for dark matter halo mass functions and density profiles, Research Square preprint v3 (halo-particle energies)",,,,,,,,,,,
+#Note,"source: author figure files Fig1.fig (Virgo), ke_vs_t_for_illustris_3.fig (Illustris K_p of all particles), ke_vs_t_for_illustris_7.fig (<K_pv>, <K_ph>) and Mh_star_vs_a_5.fig (f_h); ratios computed in code/pipeline/s03_data_analysis.py",,,,,,,,,,,,
+#Note,"Virgo t = t0 a^(3/2), t0 = 13.0372 Gyr; reference line |eps_u| = 4.58455e-07 m^2/s^3 (Virgo, all particles, Eq. 3)",,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+a (Virgo),K_p (km^2/s^2),-P_y (km^2/s^2),"t (Gyr, Illustris)","K_p all particles (m^2/s^2, Illustris)",K_p/t (m^2/s^3),a (Illustris),f_h (Illustris),"<K_pv> halo particles (m^2/s^2, Illustris)","<K_ph> halo bulk (m^2/s^2, Illustris)","<K_pv>/t (m^2/s^3, Illustris)",K_p/<K_pv> (Illustris),"a (Virgo, halo particles)","<K_pv>/t (m^2/s^3, Virgo)"
+0.0909090909,11216,0,0.376841754,9.4162e+09,7.91794883e-07,0.0769230769,0.00240301053,2.85392384e+09,8.41568358e+09,2.39982402e-07,3.29938727,0.25,3.72236709e-07
+0.166666667,21063,22765.4712,0.655860649,1.433e+10,6.92357895e-07,0.111111111,0.0309838477,3.786816e+09,1.28099625e+10,1.82961057e-07,3.78418175,0.333333333,3.38134367e-07
+0.25,33127,43935.4007,1.57718188,2.9277e+10,5.88221409e-07,0.2,0.171530997,9.58553395e+09,2.35579474e+10,1.92588595e-07,3.05428995,0.4,3.34531179e-07
+0.333333333,47073,65848.9073,3.36180928,5.6508e+10,5.32638921e-07,0.333333333,0.318581548,2.63572767e+10,3.74367887e+10,2.48441131e-07,2.14392407,0.5,3.24918703e-07
+0.4,59856,85199.8801,5.97007861,9.0729e+10,4.81572975e-07,0.5,0.419474562,5.13493361e+10,4.90660946e+10,2.72552905e-07,1.76689724,0.666666667,3.132446e-07
+0.5,80243,115670.139,10.2485984,1.2634e+11,3.90636151e-07,0.769230769,0.505839878,8.34704835e+10,5.47896893e+10,2.58086025e-07,1.51358893,0.769230769,3.09369264e-07
+0.666666667,115650,168116.007,13.7620545,1.436e+11,3.30648988e-07,1,0.553735119,1.0673836e+11,4.85495235e+10,2.45772499e-07,1.34534576,0.909090909,3.03162623e-07
+0.769230769,138050,201145.772,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,2.98680018e-07
+0.909090909,168760,246625.352,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,188610,276348.519,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN

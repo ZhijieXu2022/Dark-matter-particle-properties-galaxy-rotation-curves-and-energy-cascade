@@ -1,0 +1,9 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,11/2026,,
+#Name,Table 3 of the revised paper: scale below which self-interaction takes over from the cascade (beta_r = 1.26),,
+#Ref. [1] This paper,Z. Xu: Dark matter particle properties from galaxy rotation curves and the theory of energy cascade,
+,,,
+,,,
+sigma/m (cm^2/g),r_eta (pc),r_eta (AU),rho_eta (Msun/pc^3)
+0.1,4.58286528e-05,9.4528382,1.0448599e+09
+1,0.0458286528,9452.8382,104485.99

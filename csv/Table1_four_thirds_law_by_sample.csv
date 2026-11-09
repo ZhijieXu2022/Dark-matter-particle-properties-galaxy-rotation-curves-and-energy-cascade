@@ -1,0 +1,16 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,
+# Updated,11/2026,,,,,,
+#Name,Table 1 of the revised paper: four-thirds law by rotation-curve sample,,,,,,
+#Ref. [1] This paper,Z. Xu: Dark matter particle properties from galaxy rotation curves and the theory of energy cascade,,,,,
+#Ref. [2] SPARC,https://doi.org/10.3847/1538-4365/ab700e,"Li, Lelli, McGaugh & Schombert 2020, ApJS 247, 31 (halo fits); Lelli, McGaugh & Schombert 2016, AJ 152, 157 (doi:10.3847/0004-6256/152/6/157)",,,,,
+#Ref. [3] DMS,https://doi.org/10.1051/0004-6361/201321390,"Martinsson et al. 2013, A&A 557, A131 (DiskMass Survey)",,,,,
+#Ref. [4] Sofue,https://doi.org/10.1093/pasj/psv103,"Sofue 2016, PASJ 68, 2",,,,,
+,,,,,,,
+,,,,,,,
+sample,N,slope,slope 2.5%,slope 97.5%,beta_r median,scatter about four-thirds (dex),|eps_u| for beta_r = 1.26 (m^2/s^3)
+SPARC NFW fitting,153,-1.0662348,-1.24111089,-0.902500018,0.669079957,0.367576899,1.77401709e-07
+SPARC pISO fitting,153,-1.33617916,-1.47470336,-1.19981027,0.735348217,0.394727294,2.04399737e-07
+DMS NFW fitting,30,-1.68987333,-1.89858398,-1.58252063,1.14231461,0.200179278,3.95796868e-07
+DMS pISO fitting,30,-1.77339218,-1.90922879,-1.6370915,2.13242309,0.222180454,1.00937361e-06
+SOFUE NFW fitting,43,-1.55916184,-1.68499888,-1.43898803,1.68695188,0.138865084,7.1022313e-07
+pooled,409,-1.3685395,-1.4381295,-1.29766655,0.861306549,NaN,NaN
